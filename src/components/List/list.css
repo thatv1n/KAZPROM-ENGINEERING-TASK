@@ -1,0 +1,18 @@
+.rootList {
+  width: 100%;
+  max-width: 290px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.itemList {
+  display: flex;
+  align-items: center;
+}
+
+.rootList button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
